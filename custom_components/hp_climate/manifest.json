@@ -1,0 +1,11 @@
+{
+  "domain": "hp_climate",
+  "name": "Heat Pump Climate",
+  "version": "1.0.0",
+  "documentation": "https://github.com/lenaxia/ha-custom-components/tree/main/custom_components/hp_climate",
+  "issue_tracker": "https://github.com/lenaxia/ha-custom-components/issues",
+  "dependencies": [],
+  "codeowners": ["@lenaxia"],
+  "config_flow": false,
+  "iot_class": "local_polling"
+}
